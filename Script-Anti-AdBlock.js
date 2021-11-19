@@ -1,6 +1,6 @@
 //<![CDATA[
 /* SCRIPT ANTI ADBLOCK
-Design By : Abdi Syahputra Harahap
+Design By : Mr. Roy IT
 Website   : https://techreviewbro.blogspot.com/
 */
 
